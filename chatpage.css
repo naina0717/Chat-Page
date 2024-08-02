@@ -1,0 +1,41 @@
+
+.background {
+    background-image: url("https://png.pngtree.com/background/20230528/original/pngtree-cute-anime-girl-with-purple-hair-and-headphones-picture-image_2777786.jpg");
+    background-size: cover;
+    height: 100vh
+}
+
+.heading {
+    color: #ffffff;
+    background-color: #323f4b;
+    font-size: 20px;
+    text-align: center;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 14px;
+}
+
+.whole {
+    padding: 14px;
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 12px;
+}
+
+.text-rec {
+    background-color: #52606d;
+    padding: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    text-align: left;
+}
+
+.text-sent {
+    background-color: #47a3f3;
+    padding: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    text-align: right;
+}
